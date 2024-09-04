@@ -7,3 +7,5 @@ IOT pendeteksi pintu terbuka dan tertutup menggunakan Esp8266 dan bot Telegram
 config wifi dan bot token di sketch sesuai dengan wifi dan bot yang anda telah buat menggunakan botfather, nantinya jika sensor mendeteksi pergerakan pintu akan mengirim pesan melalui telegram "pintu terbuka"
 
 ![image](https://github.com/user-attachments/assets/2a00e9dc-a84d-497a-98b3-adb590fcc1c6)
+
+untuk power supply bisa menggunakan powerbank kecil
